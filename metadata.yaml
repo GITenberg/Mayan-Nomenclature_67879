@@ -1,0 +1,33 @@
+_repo: Mayan-Nomenclature_67879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowditch, Charles P. (Charles Pickering)
+    alias: Bowditch, Charles Pickering
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '39923'
+    url: http://www.gutenberg.org/2009/agents/39923
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Pickering_Bowditch
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67879'
+  lccn: 06045148
+language: en
+pgterms:marc904: https://archive.org/details/mayannomenclatur00bowd/mode/2up
+pgterms:marc905: 20220407172212bowditch
+pgterms:marc906: '1906'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: UK :Cambridge The University Press,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Maya calendar'
+- GITenberg
+title: Mayan Nomenclature
+url: http://www.gutenberg.org/ebooks/67879
